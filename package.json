@@ -1,0 +1,57 @@
+{
+  "name": "quiz",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^19.1.64",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "aos": "^2.3.4",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.1.0",
+    "classnames": "^2.3.1",
+    "countries-api": "^2.0.1",
+    "jquery": "^3.6.0",
+    "mdbreact": "^5.0.2",
+    "node-sass": "^4.14.1",
+    "owl.carousel": "^2.3.4",
+    "prop-types": "^15.6.1",
+    "react": "^17.0.2",
+    "react-collapse": "^5.1.0",
+    "react-dates": "^21.8.0",
+    "react-dom": "^17.0.2",
+    "react-flags": "^0.1.13",
+    "react-inputs-validation": "^4.6.3",
+    "react-owl-carousel": "^2.3.3",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-validation": "^3.0.7",
+    "validator": "^13.5.2",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
